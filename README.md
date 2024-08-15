@@ -40,9 +40,19 @@ This course may not be taken for credit by students who have received credit for
 
 ### How to Use This Repository
 
-- Clone or download the repository to access the coursework and resources.
-- Follow the instructions provided in each project or assignment folder to complete the tasks.
-- Submit your completed work through the designated submission platform.
+1. **Clone the Repository:**
+   Open your terminal and run the following command to clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/CSUSM_CS443.git
+   ```
+2. **Navigate to the Repository Directory:**
+    Change into the cloned repository directory using:
+
+    ```bash
+    cd CSUSM_CS443
+
+    ```
+
 
 ### License
 
