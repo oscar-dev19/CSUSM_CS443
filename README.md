@@ -27,14 +27,10 @@ By the end of this course, students will:
 - Develop skills in managing data security, integrity, and reliability.
 - Apply theoretical concepts through hands-on projects and assignments.
 
-### Projects and Assignments
-
-The repository includes:
-- **Project 1:** [Project Title] - [Brief Description]
-- **Assignment 1:** [Assignment Title] - [Brief Description]
-- **Additional Resources:** Lecture notes, reference materials, and sample queries.
 
 ### Prerequisites
+---
+
 
 This course may not be taken for credit by students who have received credit for CS 543.
 
